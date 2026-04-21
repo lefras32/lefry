@@ -1,6 +1,8 @@
 # lefry
 
 A modern Ethereum blockchain explorer built with Next.js, TypeScript, and Ethers.js.
+<img width="1903" height="911" alt="image" src="https://github.com/user-attachments/assets/2bec2dbf-1b43-466d-9e34-8ccac25edcd9" />
+
 
 ## Features
 
